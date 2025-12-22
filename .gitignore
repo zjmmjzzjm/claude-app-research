@@ -10,10 +10,10 @@ __pycache__/
 node_modules/
 
 # Research artifacts（通常体积较大/可能含敏感数据；建议不入库）
-artifacts/ipa/
-artifacts/traffic-captures/
-artifacts/screenshots/
-artifacts/reports/
+# artifacts/ipa/
+# artifacts/traffic-captures/
+# artifacts/screenshots/
+# artifacts/reports/
 
 # Data（如需要入库请按需移除）
 data/
